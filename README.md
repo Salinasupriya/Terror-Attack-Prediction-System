@@ -3,6 +3,7 @@
 ## Problem statement: 
 To understand the patterns and trends of terrorist/violent activities in certain locations over time, the methods they employ, their potential reasons, and the groups involved, in order to help law enforcement and other stakeholders prevent or mitigate future incidents.
 
+## Variable Description:
 ID: Unique identifier for the attack.
 Date: Date of the attack.
 Day_of_Week: Categorical (Monday, Tuesday, etc.).
